@@ -1,7 +1,8 @@
 ---
 layout: page
-title: projects
 permalink: /projects/
+title: projects
+exclude: true
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2

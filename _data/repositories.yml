@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - willwyang
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - willwyang/pupilencoder
+  - willwyang/GMVPredict
+
+github_other:
+  - willwyang/conn2res
+  - willwyang/bio2art
+  - willwyang/seRNN

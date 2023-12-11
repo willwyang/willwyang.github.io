@@ -19,4 +19,6 @@ I am a computational neuroscientist (in training) with a passion for NeuroAI. My
 
 My firm belief is that the divergence between how we study biological and artificial intelligence is cultural rather than epistemological, and that a unified mathematical understanding of the two intelligences is not only achievable, but necessary. 
 
-I currently study <b><custom1>Neuroscience</custom1></b> and <b><custom2>Machine Learning</custom2></b> at [Cambridge University](https://www.neuroscience.cam.ac.uk/), where I am also a research intern at the [MRC Cognition and Brain Sciences Unit](http://https://www.mrc-cbu.cam.ac.uk/) working on applied machine learning methods in neuroscience. 
+I am a student in <b><custom1>Neuroscience</custom1></b> and <b><custom2>Machine Learning</custom2></b> at [Cambridge University](https://www.neuroscience.cam.ac.uk/), where I was also a research intern at the [MRC Cognition and Brain Sciences Unit](http://https://www.mrc-cbu.cam.ac.uk/) working on applied machine learning methods in neuroscience. 
+
+Currently, I am a research intern across the [Imperial Centre for Complexity Science](https://www.imperial.ac.uk/complexity-science) and [Cross Labs, Kyoto](https://www.crosslabs.org/research), where I investigate NeuroAI models of neural phenomena and biologically-inspired architectures/learning rules.

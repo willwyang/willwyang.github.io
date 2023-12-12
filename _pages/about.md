@@ -21,4 +21,4 @@ My firm belief is that the divergence between how we study biological and artifi
 
 I am a student in <b><custom1>Neuroscience</custom1></b> and <b><custom2>Machine Learning</custom2></b> at [Cambridge University](https://www.neuroscience.cam.ac.uk/), where I was also a research intern at the [MRC Cognition and Brain Sciences Unit](http://https://www.mrc-cbu.cam.ac.uk/) working on applied machine learning methods in neuroscience. 
 
-Currently, I am a research intern across the [Imperial Centre for Complexity Science](https://www.imperial.ac.uk/complexity-science) and [Cross Labs, Kyoto](https://www.crosslabs.org/research), where I investigate NeuroAI models of neural phenomena and biologically-inspired architectures/learning rules.
+Currently, I am a research intern across the [Imperial Centre for Complexity Science](https://www.imperial.ac.uk/complexity-science) and [Cross Labs](https://www.crosslabs.org/research), where I investigate NeuroAI models of neural phenomena and biologically-inspired architectures/learning rules.

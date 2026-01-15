@@ -6,7 +6,7 @@ subtitle: <i>page under construction</i>
 
 profile:
   align: right
-  image: prof_pic_2.jpg
+  image: prof_pic_new.jpg
   image_circular: false # crops the image to make it circular
 
 news: false  # includes a list of news items
